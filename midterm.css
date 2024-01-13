@@ -1,0 +1,292 @@
+.div1{
+    height: 600px;
+    width: 1340px;
+background-image: url(hero-bg.jpg);
+background-size: cover;
+/* padding-left: 490px; */
+text-align: center;
+
+
+}
+#navv{
+    height: 100px;
+    width: auto;
+    text-align: right;
+    
+}
+a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    
+}
+a:hover{
+    color: wheat;
+    background-color: azure;
+}
+span{
+    
+    padding-right: 600px;
+
+    font-size: xx-large;
+    color: white;
+}
+#inp1{
+    border-radius: 39px;
+    text-align: center;
+    margin: 5px 5px;
+    padding: 9px 9px;
+    opacity: 20%;
+    
+}
+
+#inp2{
+    border-radius: 39px;
+    text-align: center;
+    margin: 5px 5px;
+    padding: 9px 9px;
+    opacity: 20%;
+
+    
+}
+
+
+#inp3{
+    border-radius: 39px;
+    text-align: center;
+    margin: 5px 5px;
+    padding: 9px 9px;
+    
+
+    
+}
+
+
+
+ #outerdiv{
+    height: auto;
+    width: 1340px;
+ display: flex;
+    justify-content: space-evenly;
+
+}
+#div2{
+    height: auto;
+    width: auto;
+    /* text-align: center; 
+    padding-left: 90px;
+    margin: 90px; */
+    margin: 20px 20px 20px 20px;
+    /* padding: 80px 80px 80px 80px; */
+    padding-left: 399px;
+
+}
+
+.innerdiv{
+height: 300px;
+width: 300px;
+background-color: white;
+justify-content: space-evenly;
+box-shadow: 4px 4px 7px rgb(185, 184, 184);
+text-align: center;
+} 
+h3 span{
+    color: brown;
+}
+.ok{
+    font-size: xx-large;
+    padding: 5px 5px 5px 5px;
+    color: rgb(206, 12, 12);
+
+    
+    
+}
+
+
+#div3{
+    height: auto;
+    width: auto;
+    margin: 20px 20px 20px 20px;
+    padding-left: 399px;
+
+}
+
+#inp4{
+    border-radius: 39px;
+    text-align: center;
+    margin: 5px 5px;
+    padding: 9px 9px;
+}
+
+.btns{
+    border: 2px solid rgb(245, 12, 12);
+    border-radius: 15px;
+    height: 43px;
+    width: 43px;
+    color: rgba(0, 0, 0, 0.815);
+    background-color: rgb(196, 127, 127);
+}
+.btns:hover{
+    color: rgb(199, 112, 127);
+    background-color: rgb(173, 57, 76);
+}
+#imgs{
+height: auto;
+width: 1340px;
+display:flex;
+justify-content:space-evenly;
+}
+
+.set{
+    margin-left: 120px;
+    padding: 40px;
+    height: 230px;
+    width: 230px;
+    background-color: white;
+    justify-content: space-evenly;
+    box-shadow: 4px 4px 7px rgb(185, 184, 184);  
+    
+}
+
+#div4{
+    height: auto;
+    width: auto;
+    margin: 20px 20px 20px 20px;
+    padding-left: 399px;
+
+}
+
+#inp5{
+    border-radius: 39px;
+    text-align: center;
+    margin: 5px 5px;
+    padding: 9px 9px;
+}
+
+
+#div5{
+    height: auto;
+    width: auto;
+    margin: 20px 20px 20px 20px;
+    padding-left: 399px;
+
+}
+
+#inp6{
+    border-radius: 39px;
+    text-align: center;
+    margin: 5px 5px;
+    padding: 9px 9px;
+}
+
+#div6{
+    height: 200px;
+    width: 1000px;
+    background-color: rgb(156, 153, 153);
+    margin-left: 200px;
+    
+    
+}
+
+#msg{
+    border: 2px solid rgb(245, 12, 12);
+    border-radius: 15px;
+    height: 50px;
+    width: 200px;
+    color: rgba(0, 0, 0, 0.815);
+    background-color: rgb(196, 127, 127);
+    margin-left: 500px;
+}
+#msg:hover{
+    color: rgb(199, 112, 127);
+    background-color: rgb(173, 57, 76);
+}
+.end{
+    margin-left: 200px;
+    padding-left: 100px;
+    padding: 10px 10px 10px 10px;
+}
+
+#div7{
+text-align: left;
+
+}
+
+
+#pp1{
+    height: 150px;
+    width: 80px;
+     padding-left: 80px;
+    margin-left: 70px;
+    margin-top: 30px; 
+    background-image: url(team-1.jpg);
+    background-size: cover
+
+}
+
+#pp2{
+    height: 150px;
+    width: 80px;
+     padding-left: 80px;
+    margin-left: 70px;
+    margin-top: 30px; 
+    background-image: url(team-2.jpg);
+    background-size: cover
+
+
+}
+
+#pp4{
+    height: 150px;
+    width: 80px;
+     padding-left: 80px;
+    margin-left: 70px;
+    margin-top: 30px; 
+    background-image: url(team-4.jpg);
+    background-size: cover
+
+
+}
+
+#pp3{
+    height: 150px;
+    width: 80px;
+      padding-left: 80px;
+     margin-left: 70px;
+    margin-top: 30px;  
+    background-image: url(team-3.jpg);
+    background-size: cover
+    
+    
+
+
+}
+
+
+.divpic{
+    align-items: center;
+    height: 250px;
+    width: 120px;
+    background-color: rgb(250, 245, 245);
+    text-align: center;
+    box-shadow: 5px 5px 8px rgb(170, 157, 157);
+    /* padding: 10px 10px 10px 10px; */
+    /* margin: 10px 10px 10px 10px; */
+    padding-right: 150px;
+    
+    
+}
+#picdiv{
+    height: auto;
+    width: 1340px;
+ display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+
+
+
+    
